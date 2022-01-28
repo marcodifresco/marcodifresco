@@ -31,9 +31,9 @@ Hi, I’m Marco Di Fresco and I’m interested in in open source, C++ and C #. I
 </div>
 
 ---
-        
-<div id="stats" align="center">
-    My stats:<br>
-    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcodifresco&theme=dark&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)
+<div id="stats" align="center"
+My stats:<br>
 </div>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcodifresco&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 
