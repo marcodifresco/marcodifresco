@@ -1,4 +1,4 @@
-Hi, I’m Marco Di Fresco. I’m interested in in open source, C++ and C #.
+Hi, I’m Marco Di Fresco and I’m interested in in open source, C++ and C #. I am Italian, but I currently live in Switzerland.
 
 <br>
 
@@ -29,3 +29,12 @@ Hi, I’m Marco Di Fresco. I’m interested in in open source, C++ and C #.
     <a href="https://www.linkedin.com/in/marcodifresco/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" title="Marco Di Fresco's Linkedin Profile" alt="Linkedin" width="40" height="40"/>&nbsp;</a>
     <a href="https://bitbucket.org/marcodifresco/"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Marco Di Fresco's Bitbucket Page"" alt="Bitbucket" width="40" height="40"/>&nbsp;</a>
 </div>
+
+
+        
+<div id="stats" align="center">
+    ### My Stats:<br>
+    [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=marcodifresco&theme=dark&background=000000)](https://git.io/streak-stats)
+
+</div>
+
