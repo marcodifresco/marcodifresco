@@ -1,4 +1,4 @@
-Hi, I’m Marco Di Fresco and I’m interested in in open source, C++ and C #. I am Italian, but I currently live in Switzerland.
+Hi, I’m Marco Di Fresco; I am Italian, but I currently live in Switzerland. I’m interested in in open source, C++ and C #. 
 
 ---
 
