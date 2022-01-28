@@ -1,6 +1,6 @@
 Hi, I’m Marco Di Fresco and I’m interested in in open source, C++ and C #. I am Italian, but I currently live in Switzerland.
 
-<br>
+---
 
 <div id="languages" align="center">
     The languages I work with:<br>
@@ -11,7 +11,7 @@ Hi, I’m Marco Di Fresco and I’m interested in in open source, C++ and C #. I
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
-<br>
+---
 
 <div id="platforms" align="center">
     The platforms I use:<br>
@@ -22,7 +22,7 @@ Hi, I’m Marco Di Fresco and I’m interested in in open source, C++ and C #. I
     <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-plain.svg" title="Gentoo Linux"  alt="Gentoo Linux" width="40" height="40"/>&nbsp;
 </div>
 
-<br>
+---
 
 <div id="sites" align="center">
     My presence on the NET:<br>
@@ -30,7 +30,7 @@ Hi, I’m Marco Di Fresco and I’m interested in in open source, C++ and C #. I
     <a href="https://bitbucket.org/marcodifresco/"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Marco Di Fresco's Bitbucket Page"" alt="Bitbucket" width="40" height="40"/>&nbsp;</a>
 </div>
 
-
+---
         
 <div id="stats" align="center">
     ### My Stats:<br>
