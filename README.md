@@ -31,7 +31,5 @@ Hi, I’m Marco Di Fresco and I’m interested in in open source, C++ and C #. I
 </div>
 
 ---
-<p align="center">
 My stats:<br>
-</p>
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=marcodifresco&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
