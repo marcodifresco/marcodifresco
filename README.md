@@ -7,6 +7,7 @@ The languages and tools I work with:<br>
     <img src="https://pic.onlinewebfonts.com/svg/img_391503.png" title="Separator" alt="Separator" width="5" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-plain.svg" title="DOT.NET" alt="DOT.NET" width="40" height="40"/>&nbsp;
     <img src="https://pic.onlinewebfonts.com/svg/img_391503.png" title="Separator" alt="Separator" width="5" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="GIT" alt="GIT" width="40" height="40"/>&nbsp;  
     <img src="https://github.com/devicons/devicon/blob/master/icons/jetbrains/jetbrains-plain.svg" title="JetBrains" alt="JetBrains" width="40" height="40"/>&nbsp;
