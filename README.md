@@ -1,5 +1,6 @@
 Hi, I’m Marco Di Fresco. I’m interested in in open source, C++ and C #.
 
+<br><br>
 
 <div id="languages" align="center">
     The languages I work with:<br>
@@ -10,16 +11,10 @@ Hi, I’m Marco Di Fresco. I’m interested in in open source, C++ and C #.
     <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
 </div>
 
+<br><br>
 
 <div id="sites" align="center">
     My presence on the NET:<br>
     <a href="https://www.linkedin.com/in/marcodifresco/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
     <a href="https://bitbucket.org/marcodifresco/"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;</a>
 </div>
-
-
-
-<ul>
-    <li><a href="https://www.linkedin.com/in/marcodifresco/">LinkedIn</a>;</li>
-    <li><a href="https://bitbucket.org/marcodifresco/">Bitbucket</a>.</li>
-<ul>
