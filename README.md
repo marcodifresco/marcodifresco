@@ -3,7 +3,7 @@ Hi, Iâ€™m Marco Di Fresco; I am Italian, but I currently live in Switzerland. Iâ
 ---
 
 The languages and tools I work with:<br>
-<div id="languages" align="center">
+<div id="languages">
     <img src="https://pic.onlinewebfonts.com/svg/img_391503.png" title="Separator" alt="Separator" width="5" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-plain.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-plain.svg" title="C#" alt="C#" width="40" height="40"/>&nbsp;
@@ -26,10 +26,16 @@ The languages and tools I work with:<br>
 
 ---
 
+My presence on the NET:<br>
 <div id="sites">
-    My presence on the NET:<br>
-    <a href="https://www.linkedin.com/in/marcodifresco/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" title="Marco Di Fresco's Linkedin Profile" alt="Linkedin" width="40" height="40"/>&nbsp;</a>
+    <img src="https://pic.onlinewebfonts.com/svg/img_391503.png" title="Separator" alt="Separator" width="5" height="40"/>&nbsp;
     <a href="https://bitbucket.org/marcodifresco/"><img src="https://github.com/devicons/devicon/blob/master/icons/bitbucket/bitbucket-original.svg" title="Marco Di Fresco's Bitbucket Page"" alt="Bitbucket" width="40" height="40"/>&nbsp;</a>
+    <a href="https://github.com/marcodifresco"><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Marco Di Fresco's Github Page"" alt="Github" width="40" height="40"/>&nbsp;</a>
+    <img src="https://pic.onlinewebfonts.com/svg/img_391503.png" title="Separator" alt="Separator" width="5" height="40"/>&nbsp;
+    <a href="https://www.linkedin.com/in/marcodifresco/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" title="Marco Di Fresco's Linkedin Profile" alt="Linkedin" width="40" height="40"/>&nbsp;</a>
+    <img src="https://pic.onlinewebfonts.com/svg/img_391503.png" title="Separator" alt="Separator" width="5" height="40"/>&nbsp;
+    <a href="https://www.facebook.com/marco.difresco"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" title="Marco Di Fresco's Facebook Profile" alt="Facebook" width="40" height="40"/>&nbsp;</a>
+    <img src="https://pic.onlinewebfonts.com/svg/img_391503.png" title="Separator" alt="Separator" width="5" height="40"/>&nbsp;
 </div>
 
 ---
