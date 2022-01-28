@@ -35,6 +35,7 @@ My presence on the NET:<br>
     <a href="https://www.linkedin.com/in/marcodifresco/"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-plain.svg" title="Marco Di Fresco's Linkedin Profile" alt="Linkedin" width="40" height="40"/>&nbsp;</a>
     <img src="https://pic.onlinewebfonts.com/svg/img_391503.png" title="Separator" alt="Separator" width="5" height="40"/>&nbsp;
     <a href="https://www.facebook.com/marco.difresco"><img src="https://github.com/devicons/devicon/blob/master/icons/facebook/facebook-plain.svg" title="Marco Di Fresco's Facebook Profile" alt="Facebook" width="40" height="40"/>&nbsp;</a>
+   <a href="https://twitter.com/MarcoDiFresco"><img src="https://github.com/devicons/devicon/blob/master/icons/twitter/twitter-original.svg" title="Marco Di Fresco's Twitter Profile" alt="Twitter" width="40" height="40"/>&nbsp;</a>
     <img src="https://pic.onlinewebfonts.com/svg/img_391503.png" title="Separator" alt="Separator" width="5" height="40"/>&nbsp;
 </div>
 
